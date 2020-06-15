@@ -71,7 +71,7 @@ public class About extends JDialog {
         getContentPane().setLayout(new java.awt.GridBagLayout());
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Syutsuryoku Seikou!!");
+        setTitle("Syutsuryoku Seikou!");
         mainPanel.setLayout(new java.awt.GridBagLayout());
 
         mainPanel.setBorder(new javax.swing.border.EmptyBorder(new java.awt.Insets(11, 11, 12, 12)));
