@@ -177,7 +177,7 @@ public class Anagrams extends JFrame {
         mainPanel.add(feedbackLabel, gridBagConstraints);
 
         buttonsPanel.setLayout(new java.awt.GridBagLayout());
-
+        
         guessButton.setMnemonic('G');
         guessButton.setText("答える");
         guessButton.setToolTipText("Guess the scrambled word.");
